@@ -1,0 +1,3210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9135893028119917176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_MFG
+  m_EditorClassIdentifier: 
+  Name: Guit_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 3219767930
+    data2: 4262608074
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8992814723355824805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_Ratio
+  m_EditorClassIdentifier: 
+  Name: Hamm_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 3405441540
+    data2: 4091541249
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8913186623725586489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_HFG
+  m_EditorClassIdentifier: 
+  Name: Chor_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 3148593570
+    data2: 49562322
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8824057359040952294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_HF
+  m_EditorClassIdentifier: 
+  Name: Hamm_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 2031643936
+    data2: 454673203
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8722846046722330538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_Mute
+  m_EditorClassIdentifier: 
+  Name: Chor_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1799988509
+    data2: 2878037778
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8677622419881748992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_HF
+  m_EditorClassIdentifier: 
+  Name: Guit_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 2589134554
+    data2: 2468455213
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8653209198781221913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_LF
+  m_EditorClassIdentifier: 
+  Name: Chor_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 3413742142
+    data2: 2772516653
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8472860714974134986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_Mute
+  m_EditorClassIdentifier: 
+  Name: Bass_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4084224920
+    data2: 97653293
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8369059903013519741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_MF
+  m_EditorClassIdentifier: 
+  Name: Voz_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 321.60803
+  ID:
+    data1: 2529771875
+    data2: 645615024
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8233387880648795093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_Threshold
+  m_EditorClassIdentifier: 
+  Name: Bass_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 4283751272
+    data2: 1243130349
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-8027329164658860850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_HFG
+  m_EditorClassIdentifier: 
+  Name: Bass_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 2002514935
+    data2: 1851027652
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7893600869233539545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_Mute
+  m_EditorClassIdentifier: 
+  Name: Hamm_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1361562043
+    data2: 993449536
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7799048550557531818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_Mute
+  m_EditorClassIdentifier: 
+  Name: Drum_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2048699603
+    data2: 2123983691
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7679840752152725472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_LFG
+  m_EditorClassIdentifier: 
+  Name: Guit_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 2031932276
+    data2: 1548193159
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7630951648550973864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_Threshold
+  m_EditorClassIdentifier: 
+  Name: Hamm_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 2378988056
+    data2: 1965348024
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7549618146048988015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_LF
+  m_EditorClassIdentifier: 
+  Name: Hamm_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 1523769361
+    data2: 1200272220
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7450786308466569463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_Threshold
+  m_EditorClassIdentifier: 
+  Name: Bass_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 4283751272
+    data2: 1243130349
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-7184110189186798730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_HF
+  m_EditorClassIdentifier: 
+  Name: Chor_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 2324693229
+    data2: 1907394798
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-6882008678342810651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_MF
+  m_EditorClassIdentifier: 
+  Name: Guit_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 1298127692
+    data2: 2199383865
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-6780189727562315750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Reverb_Send
+  m_EditorClassIdentifier: 
+  Name: Reverb_Send
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 352533576
+    data2: 2513696373
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-6735907059265614265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_MFG
+  m_EditorClassIdentifier: 
+  Name: Voz_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 899296023
+    data2: 2803436085
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5820234019944180661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_HFG
+  m_EditorClassIdentifier: 
+  Name: Guit_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 3251316207
+    data2: 1730610207
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5815074988644765411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_MFG
+  m_EditorClassIdentifier: 
+  Name: Hamm_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 497201037
+    data2: 2573753737
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5597876985701897534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_MF
+  m_EditorClassIdentifier: 
+  Name: Drum_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 2637458771
+    data2: 1960688421
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5267819917797573197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_MF
+  m_EditorClassIdentifier: 
+  Name: Drum_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 2637458771
+    data2: 1960688421
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-5114549277022932062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_LFG
+  m_EditorClassIdentifier: 
+  Name: Hamm_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1099246259
+    data2: 1208184400
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4874550177765861237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_LF
+  m_EditorClassIdentifier: 
+  Name: Voz_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 3989624174
+    data2: 467884447
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4716303101249720236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_HF
+  m_EditorClassIdentifier: 
+  Name: Guit_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 2589134554
+    data2: 2468455213
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4640347809192586621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_Mute
+  m_EditorClassIdentifier: 
+  Name: Guit_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1815466545
+    data2: 2275992610
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4541000710413985740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_Mute
+  m_EditorClassIdentifier: 
+  Name: Drum_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 2048699603
+    data2: 2123983691
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4391563900223362686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_MFG
+  m_EditorClassIdentifier: 
+  Name: Bass_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 2361489436
+    data2: 50197090
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4379564399363423731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_LFG
+  m_EditorClassIdentifier: 
+  Name: Guit_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 2031932276
+    data2: 1548193159
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-4129855223337679778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_MFG
+  m_EditorClassIdentifier: 
+  Name: Voz_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 899296023
+    data2: 2803436085
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3870120110072063754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_HFG
+  m_EditorClassIdentifier: 
+  Name: Voz_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 3384295732
+    data2: 4196184873
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3833374225305047805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Drums
+  m_EditorClassIdentifier: 
+  Name: Volumen_Drums
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 3586987263
+    data2: 2575590398
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3810090571696365600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Reverb_Send
+  m_EditorClassIdentifier: 
+  Name: Reverb_Send
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 352533576
+    data2: 2513696373
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3746127703617118611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_LF
+  m_EditorClassIdentifier: 
+  Name: Chor_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 3413742142
+    data2: 2772516653
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3649876335372009722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_LF
+  m_EditorClassIdentifier: 
+  Name: Guit_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 2185697605
+    data2: 3928255058
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3640767324874386586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_Mute
+  m_EditorClassIdentifier: 
+  Name: Voz_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 465487184
+    data2: 4108837916
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3404032648443413986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_MF
+  m_EditorClassIdentifier: 
+  Name: Voz_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 321.60803
+  ID:
+    data1: 2529771875
+    data2: 645615024
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3328668300513594390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_Threshold
+  m_EditorClassIdentifier: 
+  Name: Chor_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 3665417803
+    data2: 3839700413
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3313570940578662477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_MFG
+  m_EditorClassIdentifier: 
+  Name: Hamm_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 497201037
+    data2: 2573753737
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3302139174052183033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Voz
+  m_EditorClassIdentifier: 
+  Name: Volumen_Voz
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 344657896
+    data2: 3124698173
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-3175329436555290430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_LFG
+  m_EditorClassIdentifier: 
+  Name: Bass_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1010365057
+    data2: 2122715904
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2947836505517752487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_MF
+  m_EditorClassIdentifier: 
+  Name: Hamm_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 4146586695
+    data2: 2782476008
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2779517384310437344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_Ratio
+  m_EditorClassIdentifier: 
+  Name: Hamm_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 3405441540
+    data2: 4091541249
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2565937792460073480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_LFG
+  m_EditorClassIdentifier: 
+  Name: Bass_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1010365057
+    data2: 2122715904
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2451320675371969212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_MF
+  m_EditorClassIdentifier: 
+  Name: Hamm_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 4146586695
+    data2: 2782476008
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2241761835810444235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_MFG
+  m_EditorClassIdentifier: 
+  Name: Guit_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 3219767930
+    data2: 4262608074
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2203318409127828783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_Threshold
+  m_EditorClassIdentifier: 
+  Name: Guit_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 2485646942
+    data2: 909594938
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-2184487256670109284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../Sprint4/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638473430664350449
+  FileSizes:
+  - Name: Desktop
+    Value: 3350
+  Exists: 1
+--- !u!114 &-1888942173739313683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_Ratio
+  m_EditorClassIdentifier: 
+  Name: Guit_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 352018447
+    data2: 1103764526
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1695089661026501992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_Mute
+  m_EditorClassIdentifier: 
+  Name: Guit_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1815466545
+    data2: 2275992610
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1484709816915431356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_LFG
+  m_EditorClassIdentifier: 
+  Name: Drum_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1945485498
+    data2: 2875405330
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1462696333917519285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../../Sprint45/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638478578680000000
+  FileSizes:
+  - Name: Desktop
+    Value: 3350
+  Exists: 1
+--- !u!114 &-1273555108045744712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_Threshold
+  m_EditorClassIdentifier: 
+  Name: Drum_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: -60
+  ID:
+    data1: 2993349934
+    data2: 3452169716
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-1179446817684154241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_MFG
+  m_EditorClassIdentifier: 
+  Name: Drum_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 814653742
+    data2: 2700359338
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-994169164772018751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_Threshold
+  m_EditorClassIdentifier: 
+  Name: Voz_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 1481391027
+    data2: 1563033285
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-905337138531271806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_LF
+  m_EditorClassIdentifier: 
+  Name: Bass_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 1503802692
+    data2: 3918730544
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-724651579278035631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Hamm
+  m_EditorClassIdentifier: 
+  Name: Volumen_Hamm
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 3028398025
+    data2: 139567270
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-644486714263033480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_HF
+  m_EditorClassIdentifier: 
+  Name: Chor_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 2324693229
+    data2: 1907394798
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-526869524563780735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_Threshold
+  m_EditorClassIdentifier: 
+  Name: Hamm_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 2378988056
+    data2: 1965348024
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-466786474674699419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_LFG
+  m_EditorClassIdentifier: 
+  Name: Chor_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1713770468
+    data2: 3863252424
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-337870193647882699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_MF
+  m_EditorClassIdentifier: 
+  Name: Guit_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 1298127692
+    data2: 2199383865
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-224627035176177242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../Sprint45/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638478578680000000
+  FileSizes:
+  - Name: Desktop
+    Value: 29458336
+  Exists: 1
+--- !u!114 &-198530567322998698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_HFG
+  m_EditorClassIdentifier: 
+  Name: Bass_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 2002514935
+    data2: 1851027652
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &-188516187203293736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_Mute
+  m_EditorClassIdentifier: 
+  Name: Voz_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 465487184
+    data2: 4108837916
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -1462696333917519285}
+  - {fileID: -224627035176177242}
+  EditorEvents:
+  - {fileID: 3344888978030648539}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -224627035176177242}
+  StringsBanks:
+  - {fileID: -1462696333917519285}
+  cacheTime: 638478578680000000
+  cacheVersion: 131617
+--- !u!114 &248525050067910822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volume_Bass
+  m_EditorClassIdentifier: 
+  Name: Volume_Bass
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 1574484339
+    data2: 4054887059
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &336262329223375910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_Threshold
+  m_EditorClassIdentifier: 
+  Name: Drum_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: -60
+  ID:
+    data1: 2993349934
+    data2: 3452169716
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &484119896762180804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_MFG
+  m_EditorClassIdentifier: 
+  Name: Chor_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1883901379
+    data2: 637840327
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &501196471989161666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_HF
+  m_EditorClassIdentifier: 
+  Name: Bass_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 3422370391
+    data2: 4259670772
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &511449977392706239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_Threshold
+  m_EditorClassIdentifier: 
+  Name: Voz_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 1481391027
+    data2: 1563033285
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &688087552694942033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_Mute
+  m_EditorClassIdentifier: 
+  Name: Chor_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1799988509
+    data2: 2878037778
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &691380470755668349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_Threshold
+  m_EditorClassIdentifier: 
+  Name: Guit_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 2485646942
+    data2: 909594938
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1517073795374548289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Hamm
+  m_EditorClassIdentifier: 
+  Name: Volumen_Hamm
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 3028398025
+    data2: 139567270
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1743977913247406638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_MF
+  m_EditorClassIdentifier: 
+  Name: Bass_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 3684540799
+    data2: 1550524047
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1758692913231962775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_Ratio
+  m_EditorClassIdentifier: 
+  Name: Bass_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 1115913128
+    data2: 2493094290
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1957494198601947291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Malc
+  m_EditorClassIdentifier: 
+  Path: event:/Malc
+  Guid:
+    Data1: 866860030
+    Data2: 1292809814
+    Data3: -1590569335
+    Data4: -1846941869
+  Banks:
+  - {fileID: 5799887824742143993}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -337870193647882699}
+  - {fileID: -8027329164658860850}
+  - {fileID: -8369059903013519741}
+  - {fileID: -3328668300513594390}
+  - {fileID: -1273555108045744712}
+  - {fileID: 2400932771173289925}
+  - {fileID: -2451320675371969212}
+  - {fileID: 5884254946187344967}
+  - {fileID: 3522946111310190845}
+  - {fileID: -1888942173739313683}
+  - {fileID: -724651579278035631}
+  - {fileID: 6172302432416111884}
+  - {fileID: 511449977392706239}
+  - {fileID: 2798934238156529085}
+  - {fileID: -8824057359040952294}
+  - {fileID: -8677622419881748992}
+  - {fileID: 8197046525158050994}
+  - {fileID: 2565805921263377853}
+  - {fileID: 691380470755668349}
+  - {fileID: -3302139174052183033}
+  - {fileID: -466786474674699419}
+  - {fileID: -3649876335372009722}
+  - {fileID: 7989007692518743666}
+  - {fileID: 2105710626890473325}
+  - {fileID: 4599460564325344902}
+  - {fileID: 9094076206533966987}
+  - {fileID: -7450786308466569463}
+  - {fileID: 9112136399153197491}
+  - {fileID: 5703913789034427408}
+  - {fileID: 9139763660021106762}
+  - {fileID: -2779517384310437344}
+  - {fileID: -7679840752152725472}
+  - {fileID: 7975806103721203026}
+  - {fileID: 8131182542145069234}
+  - {fileID: -8653209198781221913}
+  - {fileID: -3313570940578662477}
+  - {fileID: -7184110189186798730}
+  - {fileID: 4480823039890754320}
+  - {fileID: -2565937792460073480}
+  - {fileID: 4435475724208933913}
+  - {fileID: -9135893028119917176}
+  - {fileID: 7510472356303645239}
+  - {fileID: 248525050067910822}
+  - {fileID: -6780189727562315750}
+  - {fileID: 484119896762180804}
+  - {fileID: -4129855223337679778}
+  - {fileID: 1743977913247406638}
+  - {fileID: -5820234019944180661}
+  - {fileID: 6244872736574439560}
+  - {fileID: 6850631123161875159}
+  - {fileID: 2771825206144649608}
+  - {fileID: -526869524563780735}
+  - {fileID: -3870120110072063754}
+  - {fileID: -5267819917797573197}
+  - {fileID: -905337138531271806}
+  - {fileID: -7799048550557531818}
+  - {fileID: -8722846046722330538}
+  - {fileID: 4151892025588092190}
+  - {fileID: -3640767324874386586}
+  - {fileID: -4640347809192586621}
+  - {fileID: -7893600869233539545}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 377542
+--- !u!114 &2105710626890473325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_HF
+  m_EditorClassIdentifier: 
+  Name: Bass_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 3422370391
+    data2: 4259670772
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2397652090023181503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_Ratio
+  m_EditorClassIdentifier: 
+  Name: Voz_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 1577146365
+    data2: 1775077171
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2400932771173289925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Chor
+  m_EditorClassIdentifier: 
+  Name: Volumen_Chor
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 627327022
+    data2: 3792816096
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2565805921263377853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Drums
+  m_EditorClassIdentifier: 
+  Name: Volumen_Drums
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 3586987263
+    data2: 2575590398
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2771825206144649608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_LF
+  m_EditorClassIdentifier: 
+  Name: Hamm_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 1523769361
+    data2: 1200272220
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &2798934238156529085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_HFG
+  m_EditorClassIdentifier: 
+  Name: Chor_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 3148593570
+    data2: 49562322
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &3344888978030648539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Malc
+  m_EditorClassIdentifier: 
+  Path: event:/Malc
+  Guid:
+    Data1: 866860030
+    Data2: 1292809814
+    Data3: -1590569335
+    Data4: -1846941869
+  Banks:
+  - {fileID: -224627035176177242}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -6882008678342810651}
+  - {fileID: -198530567322998698}
+  - {fileID: -3404032648443413986}
+  - {fileID: 7233881838729831564}
+  - {fileID: 336262329223375910}
+  - {fileID: 4517449201301311619}
+  - {fileID: -2947836505517752487}
+  - {fileID: 4375111313276214444}
+  - {fileID: -4541000710413985740}
+  - {fileID: 8194120750525565303}
+  - {fileID: 4427487124986767823}
+  - {fileID: 1517073795374548289}
+  - {fileID: 8573993054406964251}
+  - {fileID: -994169164772018751}
+  - {fileID: -8913186623725586489}
+  - {fileID: 8414764708243926419}
+  - {fileID: -4716303101249720236}
+  - {fileID: -1484709816915431356}
+  - {fileID: -3833374225305047805}
+  - {fileID: -2203318409127828783}
+  - {fileID: 6972805442601110829}
+  - {fileID: 688087552694942033}
+  - {fileID: 4870025701317830661}
+  - {fileID: 6355311606847155278}
+  - {fileID: 5185120223921254757}
+  - {fileID: 501196471989161666}
+  - {fileID: -8472860714974134986}
+  - {fileID: 3424237747332918189}
+  - {fileID: 5684231577659437361}
+  - {fileID: -8233387880648795093}
+  - {fileID: 6635962223450986577}
+  - {fileID: -5114549277022932062}
+  - {fileID: -188516187203293736}
+  - {fileID: 6103117875279286746}
+  - {fileID: -8992814723355824805}
+  - {fileID: -4379564399363423731}
+  - {fileID: -4391563900223362686}
+  - {fileID: 7679421077254448816}
+  - {fileID: -1695089661026501992}
+  - {fileID: -3746127703617118611}
+  - {fileID: -5815074988644765411}
+  - {fileID: -644486714263033480}
+  - {fileID: 7327031660441533835}
+  - {fileID: -3175329436555290430}
+  - {fileID: 1758692913231962775}
+  - {fileID: -2241761835810444235}
+  - {fileID: -4874550177765861237}
+  - {fileID: 5948181948052034192}
+  - {fileID: 7094025088753294549}
+  - {fileID: -3810090571696365600}
+  - {fileID: 4348407205898968139}
+  - {fileID: -6735907059265614265}
+  - {fileID: 8605468552905815996}
+  - {fileID: 6028307733078385150}
+  - {fileID: 2397652090023181503}
+  - {fileID: -1179446817684154241}
+  - {fileID: -7549618146048988015}
+  - {fileID: -7630951648550973864}
+  - {fileID: 7956793942932786347}
+  - {fileID: -5597876985701897534}
+  - {fileID: 3472801496516709575}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 410424
+--- !u!114 &3424237747332918189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_HF
+  m_EditorClassIdentifier: 
+  Name: Voz_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 2237347410
+    data2: 739797617
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &3472801496516709575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_LF
+  m_EditorClassIdentifier: 
+  Name: Bass_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 1503802692
+    data2: 3918730544
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &3522946111310190845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Guit
+  m_EditorClassIdentifier: 
+  Name: Volumen_Guit
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 1579064576
+    data2: 861819290
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4151892025588092190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_Mute
+  m_EditorClassIdentifier: 
+  Name: Bass_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 4084224920
+    data2: 97653293
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4348407205898968139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_MFG
+  m_EditorClassIdentifier: 
+  Name: Chor_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1883901379
+    data2: 637840327
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4375111313276214444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_Ratio
+  m_EditorClassIdentifier: 
+  Name: Drum_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 469426728
+    data2: 1656368566
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4427487124986767823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_Ratio
+  m_EditorClassIdentifier: 
+  Name: Guit_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 352018447
+    data2: 1103764526
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4435475724208933913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_Ratio
+  m_EditorClassIdentifier: 
+  Name: Bass_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 1115913128
+    data2: 2493094290
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4480823039890754320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_Ratio
+  m_EditorClassIdentifier: 
+  Name: Chor_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 291146327
+    data2: 2307194251
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4517449201301311619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Chor
+  m_EditorClassIdentifier: 
+  Name: Volumen_Chor
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 627327022
+    data2: 3792816096
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4599460564325344902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_HF
+  m_EditorClassIdentifier: 
+  Name: Voz_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 2237347410
+    data2: 739797617
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &4870025701317830661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_LFG
+  m_EditorClassIdentifier: 
+  Name: Chor_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1713770468
+    data2: 3863252424
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5185120223921254757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_HFG
+  m_EditorClassIdentifier: 
+  Name: Hamm_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1836907797
+    data2: 3472380424
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5684231577659437361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_MF
+  m_EditorClassIdentifier: 
+  Name: Chor_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 311325893
+    data2: 2310142098
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5703913789034427408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_LFG
+  m_EditorClassIdentifier: 
+  Name: Hamm_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1099246259
+    data2: 1208184400
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5799887824742143993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../../Sprint4/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638473430664305092
+  FileSizes:
+  - Name: Desktop
+    Value: 25103008
+  Exists: 1
+--- !u!114 &5884254946187344967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_Ratio
+  m_EditorClassIdentifier: 
+  Name: Drum_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 469426728
+    data2: 1656368566
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &5948181948052034192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_Mute
+  m_EditorClassIdentifier: 
+  Name: Hamm_Mute
+  StudioPath: 
+  Min: 0
+  Max: 1
+  Default: 0
+  ID:
+    data1: 1361562043
+    data2: 993449536
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6028307733078385150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_HFG
+  m_EditorClassIdentifier: 
+  Name: Guit_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 3251316207
+    data2: 1730610207
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6103117875279286746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_HFG
+  m_EditorClassIdentifier: 
+  Name: Drum_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 2352957293
+    data2: 776587201
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6172302432416111884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_HF
+  m_EditorClassIdentifier: 
+  Name: Drum_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 64895991
+    data2: 4162423452
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6244872736574439560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_Ratio
+  m_EditorClassIdentifier: 
+  Name: Voz_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 1577146365
+    data2: 1775077171
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6355311606847155278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Guit_LF
+  m_EditorClassIdentifier: 
+  Name: Guit_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 2185697605
+    data2: 3928255058
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6635962223450986577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_LFG
+  m_EditorClassIdentifier: 
+  Name: Voz_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 933520848
+    data2: 1386313688
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6850631123161875159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_MFG
+  m_EditorClassIdentifier: 
+  Name: Drum_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 814653742
+    data2: 2700359338
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &6972805442601110829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Voz
+  m_EditorClassIdentifier: 
+  Name: Volumen_Voz
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 344657896
+    data2: 3124698173
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7094025088753294549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volume_Bass
+  m_EditorClassIdentifier: 
+  Name: Volume_Bass
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 1574484339
+    data2: 4054887059
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7233881838729831564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_Threshold
+  m_EditorClassIdentifier: 
+  Name: Chor_Threshold
+  StudioPath: 
+  Min: -60
+  Max: 0
+  Default: 0
+  ID:
+    data1: 3665417803
+    data2: 3839700413
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7327031660441533835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_Ratio
+  m_EditorClassIdentifier: 
+  Name: Chor_Ratio
+  StudioPath: 
+  Min: 1
+  Max: 50
+  Default: 1
+  ID:
+    data1: 291146327
+    data2: 2307194251
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7510472356303645239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_LF
+  m_EditorClassIdentifier: 
+  Name: Voz_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 125
+  ID:
+    data1: 3989624174
+    data2: 467884447
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7679421077254448816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_LF
+  m_EditorClassIdentifier: 
+  Name: Drum_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 20
+  ID:
+    data1: 3662572009
+    data2: 210384928
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7956793942932786347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_HFG
+  m_EditorClassIdentifier: 
+  Name: Voz_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 3384295732
+    data2: 4196184873
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7975806103721203026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_MFG
+  m_EditorClassIdentifier: 
+  Name: Bass_MFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 2361489436
+    data2: 50197090
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &7989007692518743666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_HFG
+  m_EditorClassIdentifier: 
+  Name: Hamm_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1836907797
+    data2: 3472380424
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8131182542145069234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_LF
+  m_EditorClassIdentifier: 
+  Name: Drum_LF
+  StudioPath: 
+  Min: 20
+  Max: 250
+  Default: 20
+  ID:
+    data1: 3662572009
+    data2: 210384928
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8194120750525565303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Volumen_Guit
+  m_EditorClassIdentifier: 
+  Name: Volumen_Guit
+  StudioPath: 
+  Min: -80
+  Max: 10
+  Default: 0
+  ID:
+    data1: 1579064576
+    data2: 861819290
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8197046525158050994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_LFG
+  m_EditorClassIdentifier: 
+  Name: Drum_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 1945485498
+    data2: 2875405330
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8414764708243926419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Hamm_HF
+  m_EditorClassIdentifier: 
+  Name: Hamm_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 2031643936
+    data2: 454673203
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8573993054406964251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_HF
+  m_EditorClassIdentifier: 
+  Name: Drum_HF
+  StudioPath: 
+  Min: 5000
+  Max: 20000
+  Default: 10000
+  ID:
+    data1: 64895991
+    data2: 4162423452
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &8605468552905815996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Bass_MF
+  m_EditorClassIdentifier: 
+  Name: Bass_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 3684540799
+    data2: 1550524047
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &9094076206533966987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Chor_MF
+  m_EditorClassIdentifier: 
+  Name: Chor_MF
+  StudioPath: 
+  Min: 250
+  Max: 5000
+  Default: 1000
+  ID:
+    data1: 311325893
+    data2: 2310142098
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &9112136399153197491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Voz_LFG
+  m_EditorClassIdentifier: 
+  Name: Voz_LFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 933520848
+    data2: 1386313688
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &9139763660021106762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Malc/Drum_HFG
+  m_EditorClassIdentifier: 
+  Name: Drum_HFG
+  StudioPath: 
+  Min: -30
+  Max: 30
+  Default: 0
+  ID:
+    data1: 2352957293
+    data2: 776587201
+  Type: 0
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
